@@ -3,6 +3,10 @@
     {
       "source": "/",
       "destination": "https://github.com/dylanjamesdev/github-stats"
+    },
+      {
+      "source": "/info",
+      "destination": "https://github.com/dylanjamesdev/github-stats"
     }
   ]
 }
